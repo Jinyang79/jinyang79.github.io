@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,a as l}from"./app.5b5c79b2.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/typer.md","lastUpdated":null}'),p={name:"components/typer.md"},e=l("",1),c=[e];function o(t,r,d,i,y,b){return a(),n("div",null,c)}const _=s(p,[["render",o]]);export{u as __pageData,_ as default};
