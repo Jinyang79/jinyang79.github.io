@@ -1,0 +1,1 @@
+import{_ as a,o,c as m,Q as p}from"./chunks/framework.7404742a.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/devtools/mac.md","lastUpdated":null}'),e={name:"blog/devtools/mac.md"},n=p("",21),t=[n];function c(d,s,r,_,i,l){return o(),m("div",null,t)}const C=a(e,[["render",c]]);export{f as __pageData,C as default};
